@@ -20,7 +20,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <p align="left">I'm Mona Galal from Egypt<br><br>- I am a Software developer engineer, ex-Customer Service Representative @Hsoub | Debugging, React, GitHub.
 <br> 🔭 I’m looking for a job as Software developer engineer.<br>- 📚 I'm currently devoloping TyprScript., React, PHP, and Python.<br>- 
@@ -30,8 +30,6 @@
 <h3 align="left">🛠 Language and tools</h3>
  <br>
 
-###
-<p align="left"> HTML,CSS,JavaScript, PHP, bootstrap, and Python.<br> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
