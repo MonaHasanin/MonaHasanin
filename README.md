@@ -25,7 +25,6 @@
 <p align="left">I'm Mona Galal from Egypt<br><br>- I am a Software developer engineer, ex-Customer Service Representative @Hsoub | Debugging, React, GitHub.
 <br> 🔭 I’m looking for a job as Software developer engineer.<br>- 📚 I'm currently devoloping TyprScript., React, PHP, and Python.<br>- 
 <br>- ⚡ In my free time I read books, study, and practice.</p>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
  <br>
